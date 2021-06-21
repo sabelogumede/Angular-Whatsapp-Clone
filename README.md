@@ -29,4 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## YouTube // Create WhatsApp UI using Angular 10
 - https://youtu.be/b-obZ8ZloIc
 - https://www.youtube.com/watch?v=V5BYPnDW_y8
+- https://www.youtube.com/watch?v=sMRXBKgxLTY
 
