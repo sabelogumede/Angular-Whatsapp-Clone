@@ -21,7 +21,9 @@
       All chats are archived
     </div> -->
 
-    <div *ngFor = "let conversation of conversations" class="conversation">
+    <div class="conversation" *ngFor = "let conversation of conversations"
+      (click)="conversationClicked.emit(conversation)"
+    >
       <div class="picture">
         <img src="../../assets/images/noPic.svg"  alt="noPic"/>
       </div>
