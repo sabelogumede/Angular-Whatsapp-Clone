@@ -10,5 +10,6 @@ export class AppComponent {
 
   onConversationSelected(conversation:any){
     this.conversation = conversation;
+    console.log("this is " + conversation);
   }
 }
